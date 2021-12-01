@@ -1,0 +1,13 @@
+{
+	"version": "0.37",
+	"description": "Open-Source analyzer, compiler and (experimental) synthesizer for VHDL.",
+	"homepage": "http://ghdl.free.fr/",
+	"license": "GPL-2.0-only",
+	"url": "https://github.com/ghdl/ghdl/releases/download/v0.37/ghdl-0.37-mingw32-mcode.zip",
+	"hash": "6ff00ab953abce80934ab4f48a8d73ca9da94611da5fb0204c6001a6493b09fc",
+	"extract_dir":"GHDL/0.37-mingw32-mcode",
+	"bin":[
+		"bin\\ghdl.exe"
+	],
+	"env_add_path": "bin"
+}
